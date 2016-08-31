@@ -1,4 +1,7 @@
 R package - pscore
 ======
 
-R package for fast feature selection on large volume/high dimensional data using supervised/unsupervised learning and parallel computing techniques.
+R package for fast feature selection on large volume/high dimensional data using parallel computing techniques.
+
+*	Fisher scoring: for supervised cases
+*	(Bagging) Laplacian scoring: for unsupervised cases
