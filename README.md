@@ -1,4 +1,4 @@
-pscore
+R package - pscore
 ======
 
-Variable selection via scoring-and-ranking strategy
+R package for fast feature selection on large volume/high dimensional data using supervised/unsupervised learning and parallel computing techniques.
